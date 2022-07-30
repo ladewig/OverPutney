@@ -35,7 +35,7 @@ image_height = 720
 ;    az             | Azimuth angle at the minimum distance.
 ;    heading        | Heading of aircraft at the minimum distance displayed as N, NW, W, SW, S, SE, E, or NE.
 ;    speed_mph      | Speed of the aircraft at the minimum distance in mi/h.
-;    speed_k     | Speed of the aircraft at the minimum distance in km/h.
+;    speed_kmph     | Speed of the aircraft at the minimum distance in km/h.
 ;    speed_kts      | Speed of the aircraft at the minimum distance in knots.
 ;    time           | Time when the aircraft is at the minimum distance.
 ;    rssi           | Signal strength in dB at the minimum distance.
